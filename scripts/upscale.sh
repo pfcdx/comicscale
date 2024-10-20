@@ -2,7 +2,7 @@
 
 ### Upscales only one folder's contents ###
 
-REALESRGAN_PATH="/mnt/c/Users/pfc/Programs/realesrgan-ncnn-vulkan/realesrgan-ncnn-vulkan.exe"
+REALESRGAN_PATH=""
 
 read -e -p "Enter folder path: " path
 
