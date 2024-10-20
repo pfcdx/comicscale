@@ -1,7 +1,7 @@
 ### Usage
 
 > [!NOTE]
-> First and third steps are supposed to be run in the master directory where comics are in.
+> First and forth steps are supposed to be run in the master directory where comics are in.
 
 1. Run ``extract-img.sh``
 2. Run ``upscale.sh`` <ins>**in the**</ins> ``-extracted`` directories.
