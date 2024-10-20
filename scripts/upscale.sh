@@ -2,7 +2,7 @@
 
 ### Upscales only one folder's contents ###
 
-REALESRGAN_PATH=""
+REALESRGAN_EXECUTABLE_PATH=""
 
 read -e -p "Enter folder path: " path
 
