@@ -5,8 +5,8 @@
 
 1. Run ``extract-img.sh``
 2. Run ``upscale.sh`` <ins>**in the**</ins> ``-extracted`` directories.
-3. Run ``reconstruct.sh``
-4. _(Optional)_ Run ``downscale.sh`` <ins>**in the**</ins> ``-extracted`` directories to save up space.
+3. _(Optional)_ Run ``downscale.sh`` <ins>**in the**</ins> ``-extracted`` directories to save up space.
+4. Run ``reconstruct.sh``
 
 ### Dependencies
 ``unzip`` ``unrar`` ``imagemagick``
