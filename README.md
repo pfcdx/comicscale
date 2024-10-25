@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > First and fourth steps are supposed to be run in the master directory where comics are in.
+> Scripts doesn't take arguments. Run them and it will prompt you the directory you want to work with.
 
 1. Run ``scripts/extract-img.sh``
 2. Run ``scripts/upscale.sh`` <ins>**in the**</ins> ``-extracted`` directories.
