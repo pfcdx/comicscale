@@ -14,3 +14,9 @@
 ``unzip`` ``unrar`` ``imagemagick``
 
 ``imagemagick`` is only needed if you want to downscale after upscaling for size saving.
+
+### Obtaining models for ``realesrgan-ncnn-vulkan``
+I would recommend checking out (Waifu2x-Extension-GUI)[https://github.com/AaronFeng753/Waifu2x-Extension-GUI] for obtaining models.
+I also obtain the models I use from there.
+
+..or you can manually convert ``.pth`` models.
