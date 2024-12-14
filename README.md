@@ -19,4 +19,4 @@
 I would recommend checking out [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) for obtaining models.
 I also obtain the models I use from there.
 
-..or you can manually convert ``.pth`` models.
+...or you can manually convert ``.pth`` models.
