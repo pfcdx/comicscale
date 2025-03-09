@@ -1,5 +1,7 @@
 #!/bin/bash
 
+### Compress "-extracted" suffixed directories (from extract-img.sh) to .cbz files ###
+
 read -e -p "Enter folder path: " path
 
 cd $path
