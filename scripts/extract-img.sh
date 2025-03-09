@@ -1,5 +1,7 @@
 #!/bin/bash
 
+### Extract contents of .cb* files ###
+
 read -e -p "Enter path (where comic files are kept -- in .cb* format): " folder
 
 cd $folder
